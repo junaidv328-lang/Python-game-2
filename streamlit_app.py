@@ -1115,3 +1115,4 @@ with adv_tabs[2]:
 st.markdown("---")
 st.caption("Built on the Bulkowski + Donnelly engine · Mobile UI by Streamlit · "
            "All signals computed from OHLC(V) data. Educational use only.")
+

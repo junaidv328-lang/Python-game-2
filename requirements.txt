@@ -7,3 +7,4 @@ plotly>=5.17
 smartapi-python>=1.4
 pyotp>=2.9
 websocket-client>=1.6
+streamlit-local-storage>=0.0.20
